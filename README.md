@@ -47,12 +47,7 @@ Trabajo con herramientas enfocadas en enumeración, explotación y análisis:
 - **cURL** y **dig** para pruebas rápidas y análisis de endpoints…
 
 
-## 📚 Actualmente aprendiendo
-
-- eJPT (en preparación)…  
-- Fundamentos de Fortinet NSE…  
-
 ## 📫 Contacto  
 ✉️  leeops_lab@outlook.com  
-🔗  linkedin.com/in/adhylee  
+🔗  linkedin.com/in/leeops
 
